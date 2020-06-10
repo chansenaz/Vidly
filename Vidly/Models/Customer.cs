@@ -23,6 +23,8 @@ namespace Vidly.Models
 
         // Entity Framework recognizes this convention
         public byte MembershipTypeId { get; set; }
-    
+
+
+        public DateTime? Birthdate { get; set; }    
     }
 }

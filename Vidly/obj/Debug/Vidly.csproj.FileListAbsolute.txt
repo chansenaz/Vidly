@@ -111,3 +111,8 @@ C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.Add_IsSubscribedToNewsletter_
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedMembershipType.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedNameToMembershipType.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipNameEntries.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedBirthdateToCustomer.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.MadeCustomerBirthdateNullable.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
