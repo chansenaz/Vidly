@@ -26,6 +26,7 @@ namespace Vidly.Controllers
         // GET: Movies/Index or just <Home>/Movies
         public ViewResult Index()
         {
+            // The .Include() causes eager loading
             var movies = _context.Movies.Include(m => m.Genre).ToList();
 
             return View(movies);
