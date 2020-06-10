@@ -116,3 +116,5 @@ C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipNameEntries.r
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedBirthdateToCustomer.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.MadeCustomerBirthdateNullable.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedGenreTable.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulatedGenreTable.resources

@@ -28,6 +28,7 @@ namespace Vidly.Controllers
             return View(customers);
         }
 
+        // /Customers/Details/<id>
         public ActionResult Details(int id)
         {
             var customer = _context.Customers
