@@ -105,3 +105,5 @@ ENV/
 .vs/
 flowers/*
 *.pth
+/Vidly/App_Data/aspnet-Vidly-20200406083618.mdf
+/Vidly/App_Data/aspnet-Vidly-20200406083618_log.ldf
