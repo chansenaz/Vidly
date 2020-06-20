@@ -25,6 +25,7 @@ namespace Vidly.Controllers.API
             _mapper = new Mapper(config);
         }
 
+
         // GET /api/customers
         [HttpGet]
         public IHttpActionResult GetCustomers()
@@ -48,6 +49,7 @@ namespace Vidly.Controllers.API
             return Ok(_mapper.Map<Customer, CustomerDto>(customer));
         }
 
+
         // POST /api/customers
         [HttpPost]
         public IHttpActionResult CreateCustomer(CustomerDto customerDto)
@@ -63,6 +65,7 @@ namespace Vidly.Controllers.API
 
             return Created(new Uri(Request.RequestUri + "/" + customer.Id), customerDto);
         }
+
 
         // PUT /api/customers/1
         // id comes from the URL, customer comes from the body similar to CreateCustomer
