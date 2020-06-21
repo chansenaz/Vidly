@@ -129,3 +129,4 @@ C:\Projects\Vidly\Vidly\bin\AutoMapper.dll
 C:\Projects\Vidly\Vidly\bin\AutoMapper.pdb
 C:\Projects\Vidly\Vidly\bin\AutoMapper.xml
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
