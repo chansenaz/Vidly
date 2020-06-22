@@ -33,7 +33,7 @@ namespace Vidly.Models
         [Range(0,20)]
         public int NumberInStock { get; set; }
 
-
+        public byte NumberAvailable { get; set; }
     }
 
 

@@ -128,7 +128,8 @@ C:\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Projects\Vidly\Vidly\bin\AutoMapper.dll
 C:\Projects\Vidly\Vidly\bin\AutoMapper.pdb
 C:\Projects\Vidly\Vidly\bin\AutoMapper.xml
-C:\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedPhoneNumberToApplicationUser.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
