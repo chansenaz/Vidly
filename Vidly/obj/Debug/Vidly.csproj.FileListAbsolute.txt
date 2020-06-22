@@ -133,3 +133,4 @@ C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicatio
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedPhoneNumberToApplicationUser.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
 C:\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+C:\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
